@@ -12,6 +12,9 @@ body {
     padding-right: 20px;
     font-size: 20px;
 }
+.header li:last-child {
+    margin-right: 0;
+}
 footer {
     font-size: 13px;
     padding-left: 20px;
@@ -76,4 +79,10 @@ section{
     background-color: lavender;
     padding: 5px 20px;
     margin-bottom: 20px;
+}
+.continue {
+    background-color: rebeccapurple;
+    color: white;
+    padding: 8px 15px;
+    margin-left: 10px;
 }
